@@ -26,13 +26,13 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "🔰𝗬𝗼𝘂𝗿_𝗞𝗼𝗹𝗶𝗷𝗮🔰",
-  "prefix": "-",
+  "nickNameBot": "🔰𝗔𝗯𝗶𝗿_𝗞𝗼𝗹𝗶𝗷𝗮🔰",
+  "prefix": ".",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": [61561511477968,"100010544286118","61561511477968"],
+  "adminBot": [61578658041989,"100083241262207","100084397704192"],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
