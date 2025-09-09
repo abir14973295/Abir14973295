@@ -32,7 +32,7 @@
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": [61578658041989,"100083241262207","100084397704192"],
+  "adminBot": [100083241262207,"100084397704192","61576801029431"],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
@@ -157,7 +157,7 @@
     "reactByUnsend": {
       "enable": true,
       "emojis": [
-        "👍"
+        "☠️"
       ]
     },
     "reactByRemove": {
